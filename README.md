@@ -11,6 +11,16 @@
 <a href="https://volume-booster.vercel.app/" >Live on https://volume-booster.vercel.app</a>
 </p>
 
+## Volume Bot on other platform
+
+- Node Volume Booster
+  If you are running bot for your token , I suggest this bot
+- Volume Booster on Telegram
+  If you wanna offer volume bot service , use this one plz
+- Website Booster
+  This is what you are in
+  Ofc , I suggest this one for multiple users.
+
 <h4 align="center"> 📞 Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ: 👆🏻 </h4>
 
 <div align="center"> 
