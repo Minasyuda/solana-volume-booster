@@ -13,11 +13,11 @@
 
 ## Volume Bot on other platform
 
-- Node Volume Booster
+- Node Volume Booster: 
   If you are running bot for your token , I suggest this bot
-- Volume Booster on Telegram
+- Volume Booster on Telegram: 
   If you wanna offer volume bot service , use this one plz
-- Website Booster
+- Website Booster: 
   This is what you are in
   Ofc , I suggest this one for multiple users.
 
